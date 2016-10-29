@@ -1,4 +1,4 @@
-# template_node_express
+# GameOfthrones_api
 #To launch the application, you must first install on your computer Node.js and MongoDB. Please follow the instructions of their suppliers.
 #The next step is to run the following command line to install the project dependencies:
 npm install
