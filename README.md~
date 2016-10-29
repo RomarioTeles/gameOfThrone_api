@@ -6,10 +6,4 @@ npm install
 #Finally, run the node app.js command and go to the following url:
 http://localhost: 3000/
 
-#Available services
-/get/:id.json
-/get/:id.foto
-/search.json
-/search.foto
-
 #by: Romário Teles
